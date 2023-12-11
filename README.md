@@ -11,9 +11,9 @@ MFC ~ Key Vault est une application simple de gestion des mots de passe construi
 - Interface simple et conviviale
 
 ## Installation
-1. Clonez le dépôt : `git clone https://github.com/votre-utilisateur/ManagePassword.git`
+1. Clonez le dépôt : `git clone https://github.com/mhd27-mhd27/MFC-Key-Vault.git`
 2. Installez les dépendances : `pip install -r requirements.txt`
-3. Lancez l'application : `python managepassword.py`
+3. Lancez l'application : `python '.\MFC ~ Key Vault.py'`
 
 ## Propriétaire
 - **Nom :** Mouhameth Fall Carvalho
