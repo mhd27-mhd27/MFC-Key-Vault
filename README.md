@@ -21,7 +21,7 @@ MFC ~ Key Vault est une application simple de gestion des mots de passe construi
 - **GitHub :** [mhd27-mhd27](https://github.com/mhd27-mhd27)
 
 ## Version
-- Version actuelle : 2.1.3
+- Version actuelle : 2.3.1
 
 ## Licence
 Ce projet est sous licence [MIT](LICENSE).
